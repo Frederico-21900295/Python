@@ -1,0 +1,24 @@
+{
+    "Numero de linhas": 9,
+    "Numero de caracteres": 74,
+    "A maior palavra no ficheiro .txt": "aaaaaaaaaaaaaaaaaa",
+    "A quantidade de vezes que cada letra ocorre": [
+        {
+            "a": 35,
+            "b": 2,
+            "r": 3,
+            "c": 1,
+            "d": 2,
+            "p": 1,
+            "u": 1,
+            "m": 1,
+            "g": 2,
+            "i": 1,
+            "o": 1,
+            "s": 3,
+            "t": 1,
+            "e": 1,
+            "n": 4
+        }
+    ]
+}

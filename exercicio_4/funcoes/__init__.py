@@ -1,0 +1,1 @@
+from funcoes.main import *
